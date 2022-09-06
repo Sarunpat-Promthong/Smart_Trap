@@ -74,7 +74,7 @@ void loop(){
 }
 
  void Line_Notify(String message) {
-  axTLS::WiFiClientSecure client; // กรณีขึ้น Error ให้ลบ axTLS:: ข้างหน้าทิ้ง
+  axTLS::WiFiClientSecure client; 
 
   if (!client.connect("notify-api.line.me", 443)) {
     Serial.println("connection failed");  
