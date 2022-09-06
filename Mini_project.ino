@@ -7,7 +7,6 @@
 #include <WiFiClientSecureAxTLS.h>
 #include "BlynkEdgent.h"
 #define USE_NODE_MCU_BOARD
-void Line_Notify(String message) ;
 #define LINE_TOKEN "wnetD8Q54F2bsmFG5AVvDqIPpsyF5QbpcrQ84kaEQ6W"// line TOKEN
   char auth[] = "Ux7UNW119r_gXP6-iC7pDMg0CliMNlnd"; // Blynk TOKEN 
   const char ssid[] = "realme";
