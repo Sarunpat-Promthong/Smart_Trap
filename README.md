@@ -15,13 +15,13 @@
   - LINE Notify ใช้สำหรับการแจ้งเตือนผู้ใช้งานระบบ เมื่อระบบพบเจอผู้บุกรุก
 # ผลลัพธ์
 ## Blynk app
-![image](https://i.imgur.com/fP6v533.jpg)
+![image](https://github.com/Sarunpat-Promthong/Smart_Trap/blob/main/Blynk%20app.jpg)
 ## Line Notify
-![image](https://i.imgur.com/VCvhRwp.jpg)
+![image](https://github.com/Sarunpat-Promthong/Smart_Trap/blob/main/Line%20Notify.jpg)
 ## Wired Circuit
-![image](https://i.imgur.com/qtLsjDP.jpg)
+![image](https://github.com/Sarunpat-Promthong/Smart_Trap/blob/main/Wired%20Circuit.jpg)
 ## System Architecture
-![image](https://i.imgur.com/NUnAQQZ.png)
+![image](https://github.com/Sarunpat-Promthong/Smart_Trap/blob/main/System%20Architecture.png)
 ## สมาชิกในกลุ่ม
     63103949 นายทีปกร สินธุ์อ่อน               
     63112379 นายอลงกต ธุระวงศ์   
