@@ -12,5 +12,5 @@
 # Wired Circuit
 ![image](https://i.imgur.com/qtLsjDP.jpg)
 # System Architecture
-![image](https://imgur.com/NUnAQQZ)
+![image](https://i.imgur.com/NUnAQQZ.png)
 
