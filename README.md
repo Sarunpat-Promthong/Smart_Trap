@@ -12,7 +12,7 @@
   - C-Sketch เป็นภาษาที่ใช้พัฒนาระบบ
   - Blynk Library สำหรับการเชื่อมต่อไปยัง Application ของ Blynk เพื่อใช้ในการเปิดปิดระบบ
   - ESP8266WiFi library ใช้สำหรับการเชื่อมต่อ Internet เพื่อให้ตัวระบบสามารถส่งข้อมูลไปยัง Line Notify 
-  - LINE Notify ใช้สำหรับการแจ้งเตือนผู้ใช้งานระบบ
+  - LINE Notify ใช้สำหรับการแจ้งเตือนผู้ใช้งานระบบ เมื่อระบบพบเจอผู้บุกรุก
 # ผลลัพธ์
 ## Blynk app
 ![image](https://i.imgur.com/fP6v533.jpg)
